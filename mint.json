@@ -1,0 +1,5 @@
+{
+  "name": "Your Project Name",
+  "logo": "https://your-logo-url.png",
+  "openApi": "openapi.json"  // If using OpenAPI/Swagger
+}
